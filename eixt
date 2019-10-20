@@ -1,0 +1,108 @@
+[33mcommit 179a9b6364528adb78140b8f9bb08f6798ed7546[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: cc <beamdave@163.com>
+Date:   Sun Oct 20 14:41:21 2019 +0800
+
+    Add version information
+
+[33mcommit 396425a4f342b941c3bd8978d15645bc47b48afc[m
+Author: 郭霖 <sinyu890807@163.com>
+Date:   Fri Nov 25 10:11:04 2016 +0800
+
+    修复切换城市后下拉刷新的bug
+
+[33mcommit 34bb37bf6e457fa6a89dbfcbe10f72f33e6bec0f[m
+Author: 郭霖 <sinyu890807@163.com>
+Date:   Thu Nov 17 22:12:42 2016 +0800
+
+    Update Utility.java
+
+[33mcommit 3fa79b4f6e1b143a38638cf211a83a06411ea642[m
+Author: 郭霖 <sinyu890807@163.com>
+Date:   Thu Nov 17 22:12:16 2016 +0800
+
+    Update AutoUpdateService.java
+
+[33mcommit a381b8871a4adb3c86adcaf2b02e02754d0937de[m
+Author: 郭霖 <sinyu890807@163.com>
+Date:   Thu Nov 17 22:11:26 2016 +0800
+
+    Update WeatherActivity.java
+
+[33mcommit 9bfcc61c82048e4c4a45e377ef4e53bed39b2f8b[m
+Author: Tony <tony@gmail.com>
+Date:   Sun Oct 2 21:50:34 2016 +0800
+
+    进行一些兼容性调整
+
+[33mcommit 65924d1ef16077d1ce9670917d750a3fd92d3e65[m
+Author: Tony <tony@gmail.com>
+Date:   Sun Oct 2 21:47:52 2016 +0800
+
+    进行一些兼容性调整
+
+[33mcommit 7d01dd6ea7494d5c209358ed32b4f2753b0eb952[m
+Author: Tony <tony@gmail.com>
+Date:   Tue Aug 23 22:52:46 2016 +0800
+
+    修复请求失败情况下的bug
+
+[33mcommit eeee703f7411d6dd6c2b7cc8ae72d41963b44b25[m
+Merge: 039fa2d fc96d1a
+Author: Tony <tony@gmail.com>
+Date:   Mon Aug 22 23:04:21 2016 +0800
+
+    Merge branch 'master' of https://github.com/guolindev/coolweather
+
+[33mcommit 039fa2db0d2e3af6c574b7a989138b9cbc124788[m
+Author: Tony <tony@gmail.com>
+Date:   Mon Aug 22 23:03:50 2016 +0800
+
+    修改程序图标和名称。
+
+[33mcommit fc96d1adfcb74de96a16ddc5b3c0043eb4375c87[m
+Author: guolindev <sinyu890807@163.com>
+Date:   Mon Aug 22 21:38:54 2016 +0800
+
+    Update README.md
+
+[33mcommit 7272003fd6fc1a23d94d99afef5954c02215394e[m
+Author: Tony <tony@gmail.com>
+Date:   Sun Aug 21 15:31:38 2016 +0800
+
+    增加后台自动更新天气的功能。
+
+[33mcommit 5d546160c4fcfb00db3fabe8f4a7efdd74b1c8ed[m
+Author: Tony <tony@gmail.com>
+Date:   Thu Aug 18 22:45:23 2016 +0800
+
+    新增切换城市和手动更新天气的功能。
+
+[33mcommit 515506491d862d69f9eb1ee66125439ad9a81eef[m
+Author: Tony <tony@gmail.com>
+Date:   Tue Aug 16 22:51:34 2016 +0800
+
+    加入显示天气信息的功能。
+
+[33mcommit 4d8abf7146db206507238b3a5e409aa2fe7072a8[m
+Author: Tony <tony@gmail.com>
+Date:   Sun Aug 7 11:01:43 2016 +0800
+
+    完成遍历省市县三级列表的功能。
+
+[33mcommit e04cb6225864a39b5231c7f5f0582e3a8be30199[m
+Author: Tony <tony@gmail.com>
+Date:   Sat Aug 6 20:17:06 2016 +0800
+
+    加入创建数据库和表的各项配置。
+
+[33mcommit 8b321382b8c0d496f0c59154852cc2c436090997[m
+Author: Tony <tony@gmail.com>
+Date:   Fri Aug 5 22:10:36 2016 +0800
+
+    First commit.
+
+[33mcommit b5f2349141f50e4da9d1161a834ba416d0d1ea53[m
+Author: guolindev <sinyu890807@163.com>
+Date:   Fri Aug 5 21:06:57 2016 +0800
+
+    Initial commit
